@@ -1,4 +1,2 @@
-
-
-email = "" #---> tu wpisz swoj mail z gmail
-password = "" #---> tu wpisz swoje hasło z gmail
+email = "karolsznajder660@gmail.com"
+password = "myszka123"
